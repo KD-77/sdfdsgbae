@@ -1,0 +1,19 @@
+{
+  "name": "Baihuayruaytheme",
+  "theme": "Baihuayruaytheme2",
+  "version": "0.1.1",
+  "description": "Baihuayruaytheme3",
+  "keywords": [
+    "หวย",
+    "ทำนายฝัน",
+    "เลขเด็ด",
+    "เลขนำโชค",
+    "หวยออกอะไร",
+    "ฝันเห็นงู"
+  ],
+  "repository": "https://github.com/KD-77/Baihuayruaytheme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
