@@ -1,7 +1,7 @@
 {
-  "name": "Baihuayruaytheme",
-  "theme": "Baihuayruaytheme2",
-  "version": "0.1.1",
+  "name": "ทำ นาย ฝัน เห็น โลง ศพ",
+  "theme": "syntax",
+  "version": "1.0.0",
   "description": "Baihuayruaytheme3",
   "keywords": [
     "หวย",
@@ -9,9 +9,9 @@
     "เลขเด็ด",
     "เลขนำโชค",
     "หวยออกอะไร",
-    "ฝันเห็นงู"
+    "ฝันเห็นโลงศพ"
   ],
-  "repository": "https://github.com/KD-77/Baihuayruaytheme",
+  "repository": "https://github.com/KD-77/sdfdsgbae",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
